@@ -1,6 +1,24 @@
 {
-  "version": "1.0.0",
-  "theme_name": "Theme One",
-  "repo_url": "https://github.com/SallaApp/theme-raed",
-  "support_url": "https://salla.dev"
+    "version": "1.0.0",
+    "theme_name": "Theme One",
+    "repo_url": "https://github.com/SallaApp/theme-raed",
+    "support_url": "https://salla.dev",
+    "features": [
+        "component-youtube",
+        "component-store-features",
+        "component-square-photos",
+        "component-testimonials",
+        "component-random-testimonials",
+        "component-parallax-background",
+        "component-products-slider",
+        "component-photos-slider",
+        "component-fixed-products",
+        "component-fixed-banner",
+        "component-featured-products",
+        "unite-cards-height",
+        "breadcrumb",
+        "color",
+        "fonts",
+        "mega-menu"
+    ]
 }
